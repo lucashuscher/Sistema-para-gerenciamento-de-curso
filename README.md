@@ -23,8 +23,8 @@ Tabela de conteúdos
      * [Cadastrando Espaço Café](#cadastrando-espaço-café)
      * [Modificando Cadastro Espaço de Café](#modificando-cadastro-espaço-de-café)
      * [Resultado dos Cadastros](#resultado-dos-cadastros)
-   * [Autor](#-autor)
-   * [Licença](#user-content--licença)
+   * [Autor](#autor)
+   * [Licença](#licença)
 <!--te-->
 
 ## Sobre o projeto
