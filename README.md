@@ -15,7 +15,7 @@ Tabela de conteúdos
    * [Funcionalidades](#-Features)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos e Tecnologias utilizadas](#pré-requisitos)
-   * [Testes](#-testes)  
+   * [Apresentação projeto](#-testes)  
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
 <!--te-->
@@ -50,7 +50,7 @@ Além disso, recomendamos que tenha algum editor para trabalhar com os códigos:
  
  ---
  
- ## Teste
+ ## Apresentação projeto
  
 ### Cadastrando Pessoas
  
@@ -123,6 +123,14 @@ Além disso, recomendamos que tenha algum editor para trabalhar com os códigos:
 4.Clique no botão "Atualizar"
 
 ![image](https://user-images.githubusercontent.com/79815111/109444281-aa039800-7a1b-11eb-9bff-b891c08d2c3c.png)
+
+### Resultado dos Cadastros
+<b> Essa área ainda está em desenvolvimento. </b>
+
+1.Aba "Incluir/Consultar pessoas nas salas" trará o retorno dos cadastros realizados dos alunos e salas com suas respectivas apropriações.
+
+![image](https://user-images.githubusercontent.com/79815111/109444640-783f0100-7a1c-11eb-9337-56b0c9a8510b.png)
+
 
 ---
 
