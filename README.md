@@ -11,11 +11,18 @@ Cadastre, crie e gerencie pessoas, turmas e salas neste sistema voltado para con
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#-Features)
-   * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pré-requisitos e Tecnologias utilizadas](#pré-requisitos)
-   * [Apresentação projeto](#-testes)  
+   * [Sobre o projeto](#sobre-o-projeto)
+   * [Funcionalidades](#funcionalidades)
+   * [Como executar o projeto](#como-executar-o-projeto)
+     * [Pré-requisitos e Tecnologias utilizadas](#pré-requisito-e-tecnologias-utilizadas)
+   * [Apresentação projeto](#apresentação-projeto)
+     * [Cadastrando Pessoas](#cadastrando-pessoas)
+     * [Modificando Cadastro Pessoa](#modificando-cadastro-pessoa)
+     * [Cadastrando Salas](#cadastrando-salas)
+     * [Modificando Cadastro Sala](#modificando-cadastro-sala)
+     * [Cadastrando Espaço Café](#cadastrando-espaço-café)
+     * [Modificando Cadastro Espaço de Café](#modificando-cadastro-espaço-de-café)
+     * [Resultado dos Cadastros](#resultado-dos-cadastros)
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
 <!--te-->
