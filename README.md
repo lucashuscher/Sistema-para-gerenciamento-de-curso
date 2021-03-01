@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  # Sistema para gerenciamento de curso
+  Sistema para gerenciamento de curso
 </h1>
 <h3 align="center">
 Cadastre, crie e gerencie pessoas, turmas e salas neste sistema voltado para controle de curso.
